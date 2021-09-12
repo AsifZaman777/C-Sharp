@@ -1,0 +1,7 @@
+F:\C Sharp Workspace\C# Basic\Hello World\Basic CS\bin\Debug\Basic CS.exe.config
+F:\C Sharp Workspace\C# Basic\Hello World\Basic CS\bin\Debug\Basic CS.exe
+F:\C Sharp Workspace\C# Basic\Hello World\Basic CS\bin\Debug\Basic CS.pdb
+F:\C Sharp Workspace\C# Basic\Hello World\Basic CS\obj\Debug\Basic CS.csproj.AssemblyReference.cache
+F:\C Sharp Workspace\C# Basic\Hello World\Basic CS\obj\Debug\Basic CS.csproj.CoreCompileInputs.cache
+F:\C Sharp Workspace\C# Basic\Hello World\Basic CS\obj\Debug\Basic CS.exe
+F:\C Sharp Workspace\C# Basic\Hello World\Basic CS\obj\Debug\Basic CS.pdb
