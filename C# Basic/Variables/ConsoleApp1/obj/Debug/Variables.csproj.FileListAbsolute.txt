@@ -1,6 +1,0 @@
-F:\C Sharp Workspace\C# Basic\Variables\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-F:\C Sharp Workspace\C# Basic\Variables\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-F:\C Sharp Workspace\C# Basic\Variables\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-F:\C Sharp Workspace\C# Basic\Variables\ConsoleApp1\obj\Debug\Variables.csproj.CoreCompileInputs.cache
-F:\C Sharp Workspace\C# Basic\Variables\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-F:\C Sharp Workspace\C# Basic\Variables\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,7 +1,0 @@
-F:\C Sharp Workspace\C# Basic\User_Input\User_Input\obj\Debug\User_Input.csproj.AssemblyReference.cache
-F:\C Sharp Workspace\C# Basic\User_Input\User_Input\obj\Debug\User_Input.csproj.CoreCompileInputs.cache
-F:\C Sharp Workspace\C# Basic\User_Input\User_Input\bin\Debug\User_Input.exe.config
-F:\C Sharp Workspace\C# Basic\User_Input\User_Input\bin\Debug\User_Input.exe
-F:\C Sharp Workspace\C# Basic\User_Input\User_Input\bin\Debug\User_Input.pdb
-F:\C Sharp Workspace\C# Basic\User_Input\User_Input\obj\Debug\User_Input.exe
-F:\C Sharp Workspace\C# Basic\User_Input\User_Input\obj\Debug\User_Input.pdb
