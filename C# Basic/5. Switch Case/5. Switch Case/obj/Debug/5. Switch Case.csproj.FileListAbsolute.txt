@@ -1,0 +1,7 @@
+F:\C Sharp Workspace\C# Basic\5. Switch Case\5. Switch Case\bin\Debug\_5.Switch_Case.exe.config
+F:\C Sharp Workspace\C# Basic\5. Switch Case\5. Switch Case\bin\Debug\_5.Switch_Case.exe
+F:\C Sharp Workspace\C# Basic\5. Switch Case\5. Switch Case\bin\Debug\_5.Switch_Case.pdb
+F:\C Sharp Workspace\C# Basic\5. Switch Case\5. Switch Case\obj\Debug\5. Switch Case.csproj.AssemblyReference.cache
+F:\C Sharp Workspace\C# Basic\5. Switch Case\5. Switch Case\obj\Debug\5. Switch Case.csproj.CoreCompileInputs.cache
+F:\C Sharp Workspace\C# Basic\5. Switch Case\5. Switch Case\obj\Debug\_5.Switch_Case.exe
+F:\C Sharp Workspace\C# Basic\5. Switch Case\5. Switch Case\obj\Debug\_5.Switch_Case.pdb

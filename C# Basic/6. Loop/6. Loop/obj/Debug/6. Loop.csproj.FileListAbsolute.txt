@@ -1,0 +1,6 @@
+F:\C Sharp Workspace\C# Basic\6. Loop\6. Loop\bin\Debug\_6.Loop.exe.config
+F:\C Sharp Workspace\C# Basic\6. Loop\6. Loop\bin\Debug\_6.Loop.exe
+F:\C Sharp Workspace\C# Basic\6. Loop\6. Loop\bin\Debug\_6.Loop.pdb
+F:\C Sharp Workspace\C# Basic\6. Loop\6. Loop\obj\Debug\6. Loop.csproj.CoreCompileInputs.cache
+F:\C Sharp Workspace\C# Basic\6. Loop\6. Loop\obj\Debug\_6.Loop.exe
+F:\C Sharp Workspace\C# Basic\6. Loop\6. Loop\obj\Debug\_6.Loop.pdb
