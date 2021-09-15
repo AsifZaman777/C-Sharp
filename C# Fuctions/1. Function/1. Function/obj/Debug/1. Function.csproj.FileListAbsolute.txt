@@ -1,0 +1,7 @@
+F:\C Sharp Workspace\C# Fuctions\1. Function\1. Function\bin\Debug\_1.Function.exe.config
+F:\C Sharp Workspace\C# Fuctions\1. Function\1. Function\bin\Debug\_1.Function.exe
+F:\C Sharp Workspace\C# Fuctions\1. Function\1. Function\bin\Debug\_1.Function.pdb
+F:\C Sharp Workspace\C# Fuctions\1. Function\1. Function\obj\Debug\1. Function.csproj.AssemblyReference.cache
+F:\C Sharp Workspace\C# Fuctions\1. Function\1. Function\obj\Debug\1. Function.csproj.CoreCompileInputs.cache
+F:\C Sharp Workspace\C# Fuctions\1. Function\1. Function\obj\Debug\_1.Function.exe
+F:\C Sharp Workspace\C# Fuctions\1. Function\1. Function\obj\Debug\_1.Function.pdb
