@@ -1,0 +1,7 @@
+F:\C Sharp Workspace\C# Array\2. Slang Correction.cs\2. Slang Correction.cs\obj\Debug\2. Slang Correction.cs.csproj.AssemblyReference.cache
+F:\C Sharp Workspace\C# Array\2. Slang Correction.cs\2. Slang Correction.cs\obj\Debug\2. Slang Correction.cs.csproj.CoreCompileInputs.cache
+F:\C Sharp Workspace\C# Array\2. Slang Correction.cs\2. Slang Correction.cs\bin\Debug\_2.Slang_Correction.cs.exe.config
+F:\C Sharp Workspace\C# Array\2. Slang Correction.cs\2. Slang Correction.cs\bin\Debug\_2.Slang_Correction.cs.exe
+F:\C Sharp Workspace\C# Array\2. Slang Correction.cs\2. Slang Correction.cs\bin\Debug\_2.Slang_Correction.cs.pdb
+F:\C Sharp Workspace\C# Array\2. Slang Correction.cs\2. Slang Correction.cs\obj\Debug\_2.Slang_Correction.cs.exe
+F:\C Sharp Workspace\C# Array\2. Slang Correction.cs\2. Slang Correction.cs\obj\Debug\_2.Slang_Correction.cs.pdb

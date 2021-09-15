@@ -1,0 +1,7 @@
+F:\C Sharp Workspace\C# Array\1. Array,cs\1. Array,cs\obj\Debug\1. Array,cs.csproj.AssemblyReference.cache
+F:\C Sharp Workspace\C# Array\1. Array,cs\1. Array,cs\obj\Debug\1. Array,cs.csproj.CoreCompileInputs.cache
+F:\C Sharp Workspace\C# Array\1. Array,cs\1. Array,cs\bin\Debug\_1.Array_cs.exe.config
+F:\C Sharp Workspace\C# Array\1. Array,cs\1. Array,cs\bin\Debug\_1.Array_cs.exe
+F:\C Sharp Workspace\C# Array\1. Array,cs\1. Array,cs\bin\Debug\_1.Array_cs.pdb
+F:\C Sharp Workspace\C# Array\1. Array,cs\1. Array,cs\obj\Debug\_1.Array_cs.exe
+F:\C Sharp Workspace\C# Array\1. Array,cs\1. Array,cs\obj\Debug\_1.Array_cs.pdb

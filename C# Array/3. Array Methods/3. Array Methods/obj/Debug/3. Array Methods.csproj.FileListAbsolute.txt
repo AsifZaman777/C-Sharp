@@ -1,0 +1,7 @@
+F:\C Sharp Workspace\C# Array\3. Array Methods\3. Array Methods\bin\Debug\_3.Array_Methods.exe.config
+F:\C Sharp Workspace\C# Array\3. Array Methods\3. Array Methods\bin\Debug\_3.Array_Methods.exe
+F:\C Sharp Workspace\C# Array\3. Array Methods\3. Array Methods\bin\Debug\_3.Array_Methods.pdb
+F:\C Sharp Workspace\C# Array\3. Array Methods\3. Array Methods\obj\Debug\3. Array Methods.csproj.AssemblyReference.cache
+F:\C Sharp Workspace\C# Array\3. Array Methods\3. Array Methods\obj\Debug\3. Array Methods.csproj.CoreCompileInputs.cache
+F:\C Sharp Workspace\C# Array\3. Array Methods\3. Array Methods\obj\Debug\_3.Array_Methods.exe
+F:\C Sharp Workspace\C# Array\3. Array Methods\3. Array Methods\obj\Debug\_3.Array_Methods.pdb
