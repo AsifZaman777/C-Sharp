@@ -27,7 +27,7 @@ namespace _1.Function
 
         static void KeyValArg(string arg1="Asif",string arg2="Prottoy",string arg3="Ovy")
         {
-            Console.WriteLine(arg1 + " kikced " + arg2 + " Ass ");
+            Console.WriteLine(arg1 + " kicked " + arg2 + " Ass "); 
         }
 
         static void Main(string[] args)
@@ -39,7 +39,7 @@ namespace _1.Function
             def_parameter("Prottoy"); // return Prottoy
             def_parameter(); // return default
 
-            keyVal_arg(arg1: "Angela", arg2: "Rayed", arg3: "Alif");
+            keyVal_arg(arg1: "Angela", arg2: "Rayed", arg3: "Alif"); //Angela Rayed are friends
             KeyValArg();
 
         }
